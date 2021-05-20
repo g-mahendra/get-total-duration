@@ -1,6 +1,6 @@
 # get-total-duration
 Pass a directory path to the Tkinter UI and get the total duration of videos contained in that directory
-##Prerequisite
+## Prerequisite
 moviepy module
-##Install moviepy
+## Install moviepy
 
